@@ -61,13 +61,6 @@ Business Insights
 
 ---
 
-
-# Dashboard Preview
-<img src="./Dashboard Screenshot/dashboard.png" width="1000"/>
-
- 
----
-
 # Key Business Insights
 
 - Technology category generated highest sales
