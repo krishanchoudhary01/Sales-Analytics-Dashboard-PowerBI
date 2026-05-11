@@ -63,7 +63,7 @@ Business Insights
 
 
 # Dashboard Preview
-![Dashboard](Dashboard_Screenshot/Dashboard.png)
+<img src="./Dashboard_Screenshot/Dashboard.png" width="1000"/>
 
  
 ---
