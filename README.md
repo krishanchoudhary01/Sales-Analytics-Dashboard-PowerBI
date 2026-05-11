@@ -64,7 +64,7 @@ Business Insights
 
 # Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard ScreenShot](Dashboard.png)
  
 ---
 
